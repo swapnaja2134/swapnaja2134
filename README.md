@@ -14,6 +14,8 @@ An aspiring Full Stack Developer bridging the gap between Electrical Engineering
 * **Tools:** Eclipse IDE, Git, GitHub Desktop
 
 ## 🚀 Projects Showcase
+* 💳 **Employee Management System:** Java & Hibernate persistence application demonstrating `@OneToOne` entity relationships to automatically generate and link identity cards with cascade operations.
+* 🏥 **Hospital Management System:** Persistent backend CRUD engine tracking medical personnel data configurations natively using Java, SQL, and Hibernate.
 * 🏥 **Hospital Management System:** My latest persistent backend CRUD engine tracking medical personnel data configurations natively using Java, SQL, and Hibernate.
 * 📈 **Stock Trading Platform:** Full-stack market tracking solution utilizing the MERN stack ecosystem (completed during previous coursework).
 * 🤖 **AI Code Corrector:** Intelligent parsing interface powered by the Gemini API framework and full-stack architecture.
