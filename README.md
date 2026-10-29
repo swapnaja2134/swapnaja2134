@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:0f766e&height=190&section=header&text=Hi%2C%20I'm%20Swapnaja&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Header" />
 
-  Pune, India
+Pune, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnajakhemkar21@gmail.com)
