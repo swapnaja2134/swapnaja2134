@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:0f766e&height=190&section=header&text=Hi,%20I'm%20Swapnaja&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:0f766e&height=190&section=header&text=Hi,%20I'm%20Swapnaja&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Header" />
 
 **Pune, India**
 
