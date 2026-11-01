@@ -1,12 +1,12 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:0f766e&height=190&section=header&text=Hi%2C%20I'm%20Swapnaja&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%26%20React&descAlignY=60&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:0f766e&height=190&section=header&text=Hi,%20I'm%20Swapnaja&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Header" />
 
-📍 Pune, India
+**Pune, India**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnaja-khemkar-363329372)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnajakhemkar21@gmail.com)
-[![Live Project](https://img.shields.io/badge/Live%20Project-Library%20System-064e3b?style=for-the-badge&logo=render&logoColor=white)](https://library-frontend-h1jx.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnaja2134)
 
 </div>
 
@@ -14,49 +14,68 @@
 
 ## 👩‍💻 About Me
 
-Graduate in **Electrical Engineering (SPPU, 2026)** transitioned into software engineering through rigorous full-stack training at **VIT Pune**. I specialize in engineering scalable RESTful microservices and backend systems using **Java, Spring Boot, Hibernate, and SQL**, paired with clean, responsive frontends in **React.js and Tailwind CSS**.
+I am a B.E. Electrical Engineering graduate (SPPU, 2026) who transitioned into software development because I enjoy building applications that solve real-world problems.
 
-- 🔭 Currently building: **IntelliHire**, an end-to-end job portal with role-based JWT security and tracking workflows
-- 🌱 Deepening knowledge: Distributed systems, microservices design patterns, and DSA
-- 🎯 Actively seeking: **Entry-level Software Developer / Java Full Stack Developer / Backend Engineer** roles
+I work with **Java, Spring Boot, REST APIs, MySQL and React.js**, focusing on backend development, database management, authentication and full-stack application development.
+
+I also enjoy exploring AI integrations and incorporating them into practical applications.
+
+- 🔭 Building and deploying full-stack Java applications.
+- 🌱 Strengthening my skills in Core Java, Spring Boot, Hibernate, SQL, React.js and DSA.
+- 🤖 Exploring AI-powered application development and API integrations.
+- 🎯 Looking for an **Entry-Level Java Full Stack Developer / Software Developer** opportunity.
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🚀 IntelliHire – Job Application Platform
+### 1. IntelliHire – AI-Powered Applicant Tracking System
 
-A scalable, full-stack recruitment portal enabling candidates to discover and apply for roles while equipping recruiters with end-to-end applicant tracking and workflow management.
+An AI-powered Applicant Tracking System that helps recruiters process candidate resumes, extract candidate information and evaluate how well candidates match job requirements.
 
-| Key Links | Details |
-|---|---|
-| ⚙️ **Source Code** | [IntelliHire-Repository](https://github.com/swapnaja2134/IntelliHire) *(or update with your repo link)* |
-| 🛠️ **Tech Stack** | Java, Spring Boot, Spring Security, JWT, Spring Data JPA, MySQL, React.js, Tailwind CSS |
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT, Groq Cloud API, Apache PDFBox, MySQL, Spring Data JPA, React.js, Tailwind CSS.
 
-**Highlights & Architecture:**
-- 🔐 **Stateless Authentication**: Implemented secure token-based authentication using **Spring Security** and **JWT**, supporting distinct `JOB_SEEKER` and `RECRUITER` roles.
-- 💼 **Job & Application Pipeline**: Built multi-criteria filtering for job listings, résumé attachment ingestion, and candidate pipeline tracking (Applied, Shortlisted, Interviewed, Rejected).
-- ⚡ **Optimized Data Layer**: Structured relational schemas in MySQL using Spring Data JPA with indexed queries and pagination to ensure low-latency response times.
+**Key Features**
+
+- 📄 PDF resume parsing using Apache PDFBox, including multi-page resume processing.
+- 🤖 Integrated Groq Cloud API (`llama-3.3-70b-versatile`) to extract candidate skills, experience and education.
+- 🗄️ Stores structured candidate information in MySQL using Spring Data JPA.
+- 📊 Dynamic ATS scoring engine to calculate candidate match percentages.
+- 🎯 Identifies missing technical skills and generates structured recruiter feedback.
+- 🔐 Spring Security and JWT authentication with recruiter role-based access control.
+- 💻 React.js and Tailwind CSS recruiter dashboard for candidate searching and match analysis.
+
+**Repository:**
+
+[![Backend](https://img.shields.io/badge/Backend-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/swapnaja2134/intellihire-backend)
 
 ---
 
-### 📚 Library Management System
+### 2. Library Management System
 
-A production-deployed full-stack library management system featuring custom role management and AI-assisted catalog indexing.
+A full-stack library management application where members can search, borrow and return books, while administrators manage books and members.
 
-| | |
-|---|---|
-| 🌐 **Live Demo** | [library-frontend-h1jx.onrender.com](https://library-frontend-h1jx.onrender.com) |
-| ⚙️ **Backend Code** | [Library-Management-Spring-Boot](https://github.com/swapnaja2134/Library-Management-Spring-Boot) |
-| 🎨 **Frontend Code** | [library-frontend](https://github.com/swapnaja2134/library-frontend) |
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT, JPA/Hibernate, MySQL, React.js, Tailwind CSS, Gemini API, Docker.
 
-**What it does:**
-- 🔐 JWT login with **Admin, Librarian, and Member** access roles.
-- 📚 Borrow/return engine with automatic overdue calculation and late fee tracking.
-- 🤖 **AI Book Discovery**: Integrated the Gemini API for semantic book recommendations with an automated fallback to standard SQL keyword search.
-- ✅ Robust test suite with 19 JUnit and Mockito unit/integration tests; deployed via Docker on Render with a cloud MySQL database.
+**Key Features**
 
-<sub>Note: Hosted on Render free tier; initial server cold boot may take ~45–60 seconds.</sub>
+- 🔐 JWT authentication with **Admin, Librarian and Member** roles.
+- 📚 Book search, borrowing and return management.
+- ⏳ Duplicate-borrow prevention, 14-day due dates, overdue detection and automatic late-fine calculation.
+- 🤖 AI-powered natural-language book search using Gemini API.
+- 🛠️ Admin tools for adding/removing books, managing members and temporary password resets.
+- ✅ 19 JUnit and Mockito tests.
+- 🚀 Deployed on Render with a cloud MySQL database and Docker.
+
+**Project Links:**
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Library%20System-064e3b?style=for-the-badge&logo=render)](https://library-frontend-h1jx.onrender.com)
+
+[![Backend](https://img.shields.io/badge/Backend-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/swapnaja2134/Library-Management-Spring-Boot)
+
+[![Frontend](https://img.shields.io/badge/Frontend-GitHub-0f766e?style=for-the-badge&logo=react)](https://github.com/swapnaja2134/library-frontend)
+
+<sub>Note: The application uses free hosting, so the first load after a period of inactivity may take about a minute.</sub>
 
 ---
 
@@ -64,45 +83,72 @@ A production-deployed full-stack library management system featuring custom role
 
 <div align="center">
 
-### Backend & Architecture
-![Java](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,maven&theme=dark)
+### Backend Development
+
+![Java](https://img.shields.io/badge/Java-Core%20%26%20Advanced-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-Authentication-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-Development-02569B?style=for-the-badge)
 
 ### Frontend Development
-![Frontend](https://skillicons.dev/icons?i=react,vite,js,tailwind,html,css,bootstrap&theme=dark)
 
-### DevOps, Cloud & Developer Tools
-![Tools](https://skillicons.dev/icons?i=git,github,docker,eclipse,vscode,postman&theme=dark)
+![React](https://skillicons.dev/icons?i=react)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Database & APIs
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-AI-4285F4?style=for-the-badge&logo=google)
+![Groq API](https://img.shields.io/badge/Groq%20API-AI-000000?style=for-the-badge)
+
+### Testing & Development Tools
+
+![JUnit](https://img.shields.io/badge/JUnit-Testing-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-Unit%20Testing-78A641?style=for-the-badge)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Maven](https://skillicons.dev/icons?i=maven)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 </div>
 
-| Category | Skills & Tools |
-|---|---|
-| **Core & Enterprise Java** | Java 8/11/17 (OOP, Collections Framework, Multithreading, Streams API, Exception Handling) |
-| **Frameworks & ORM** | Spring Boot, Spring Security, Spring Data JPA, Spring JDBC, Spring AOP, Hibernate ORM |
-| **Databases** | MySQL, MongoDB, Relational Schema Design, Normalization, Complex Joins, Indexing |
-| **Frontend** | React.js, Vite, React Router, JavaScript (ES6+), HTML5, CSS3/SCSS, Tailwind CSS, Bootstrap |
-| **APIs & Testing** | RESTful Web Services, JSON, Postman, JUnit, Mockito |
-| **Tools & Build Systems** | Git, GitHub Desktop, Maven, Docker, Eclipse IDE, VS Code |
+**Additional Tools:** Apache PDFBox, Render, GitHub Desktop.
 
 ---
 
-## 📂 Other Notable Projects
+## 🎓 Education
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🏥 **Hospital Management System** | Enterprise backend application for patient admission logs, doctor roster assignments, and record persistence. | Java, Hibernate ORM, SQL, MySQL |
-| 🤖 **AI Code Corrector** | Web app that parses code snippets, identifies syntax or logical bottlenecks, and generates fixes via the Gemini API. | React, Node.js, Express, MongoDB, Gemini API |
-| 📈 **Stock Trading Platform** | Full-stack simulation engine for portfolio valuation, virtual equity purchasing, and real-time P&L calculations. | React, Node.js, Express, MongoDB |
-| 👥 **Employee Management System** | Identity card mapping and CRUD record management service with relational database integrity. | Core Java, Hibernate ORM, MySQL |
+**Bachelor of Engineering – Electrical Engineering**  
+Savitribai Phule Pune University | 2022–2026
+
+---
+
+## 📜 Certifications
+
+- DSA – Certificate of Completion.
+- NPTEL – Soft Skills and Personality Development.
 
 ---
 
 ## 📬 Let's Connect
 
-I am open to discussing full-time opportunities, developer internships, and technical collaborations.
+I am open to discussing software development opportunities, internships, projects and collaborations.
 
-- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-- **Email**: [swapnajakhemkar21@gmail.com](mailto:swapnajakhemkar21@gmail.com)
-- **GitHub**: [github.com/swapnaja2134](https://github.com/swapnaja2134)
+Feel free to connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnaja-khemkar-363329372)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnajakhemkar21@gmail.com)
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:064e3b&height=100&section=footer" width="100%" alt="Footer" />
+
+</div>
