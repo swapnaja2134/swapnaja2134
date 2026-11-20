@@ -13,7 +13,7 @@
 
 Electrical Engineering graduate (SPPU, 2026) turned **Java Full Stack developer**. I enjoy backend work most: secure REST APIs, database design and AI integration.
 
-🔭 Building **IntelliHire**, an AI-powered ATS  ·  🎯 Looking for an entry-level Java Developer role in Pune (remote and internships welcome)
+🔭 Building **IntelliHire**, an AI-powered ATS  ·  🎯 Looking for an entry-level Java Developer role (remote and internships welcome)
 
 ## 🚀 Projects
 
