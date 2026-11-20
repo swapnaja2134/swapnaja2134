@@ -32,7 +32,7 @@ Upload a resume and get structured candidate data plus a job-match score.
 ### 📚 Library Management System
 ![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square)
 `Java` `Spring Boot` `JWT` `Hibernate` `MySQL` `React.js` `Tailwind CSS` `Gemini API` `Docker`
-<img width="955" height="475" alt="image" src="https://github.com/user-attachments/assets/32e28eec-f8a6-4ad6-a1e5-9fe196ed8561" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/32e28eec-f8a6-4ad6-a1e5-9fe196ed8561" />
 
 Full-stack library app with role-based access and AI-powered book search.
 
